@@ -4,8 +4,8 @@ export default function Header(){
     return(
         <>
         <header className="header">
-            <img src={logo} alt="chef logo" className= "logo" />
-            <span className= "claude"> Chef Claude</span>
+            <img src={logo} alt="chef logo"  />
+            <span> Chef </span>
         </header>
         </>
     )
